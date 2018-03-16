@@ -58,4 +58,10 @@ public class CategoryDAOImpl implements CategoryDAO {
 		return null;
 	}
 
+	@Override
+	public boolean add(Category category) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }
